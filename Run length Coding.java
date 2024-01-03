@@ -1,5 +1,6 @@
 # Solution
 ## One of ways to solve this question is as shown below. The main logic is adding an extra space to the original string
+### Source Geeks For Geeks
 class GfG {
     String encode(String str) {
         
