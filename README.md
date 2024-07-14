@@ -1,5 +1,4 @@
-# I am taking this challenge to prove my consistecy and to tackle the upcoming challenges.
-## 6 - Companies 30 - Days Challenge
+## 45 - Days Challenge
 
-#ReviseWithArsh
-#6Companies30Days
+- #CrackYourInternship
+- #CrackYourPlacement Challenge
