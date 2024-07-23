@@ -1,0 +1,17 @@
+//Implementation 1 : Using Insertion Sort
+class Solution {
+    public void sortColors(int[] nums) {
+        for(int i=1;i<nums.length;i++){
+            int curr = i;
+            while(curr>0 && nums[curr] < nums[curr-1]){
+                int temp2 = nums[curr];
+                nums[curr] = nums[curr-1];
+                nums[curr-1] = temp2;
+                curr--;
+            }
+        }
+    }
+   
+}
+
+//Implementation 2: Using Three loops for 0,1,2  -> O(n) Time + O(1) space
